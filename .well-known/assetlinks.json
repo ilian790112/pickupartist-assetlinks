@@ -1,0 +1,15 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls",
+            "delegate_permission/common.get_login_creds"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "page.glide.pickupartist_traning_ujix.twa",
+            "sha256_cert_fingerprints": [
+                "41:B5:17:37:83:68:CC:83:97:EE:26:79:30:60:B2:C4:5E:4E:55:63:9B:B8:E3:B8:9D:BC:93:96:43:2B:FF:66"
+            ]
+        }
+    }
+]
